@@ -1,8 +1,8 @@
-# pr-doski
+# lide
 Технологии:
   - HTML+CSS
   - jQuery
   - JS
   - БЭМ
   
-<a href="https://denis-snitko.github.io/pr-doski/" target="_blank">Doski</a>
+<a href="https://gas-hub.github.io/Lide/" target="_blank">lide</a>
